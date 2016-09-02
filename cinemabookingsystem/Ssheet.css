@@ -1,0 +1,108 @@
+
+
+body {background-image: url("blackpattern.jpg");} 
+
+#wrapper {
+		width:1000px;
+		margin:0px auto;
+		border:0px solid #bbb;
+		padding:10px;
+		background-image: url("whitesilk.jpg");
+
+	}
+
+p {
+	color: black;
+	font-size: 1.2em;
+}
+
+p{font-family:"Times New Roman", Times, serif;}
+
+
+   h1 {
+ color: white;
+ background-color: #000000;
+}
+
+h1 {
+  padding-left: 19px;
+  padding-top: 59px;
+  padding-right: 395px;
+  padding-bottom: 6px;
+ }
+
+h1 {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	}
+
+
+
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+li
+{
+float:left;
+}
+a:link,a:visited
+{
+display:block;
+width:114px;
+font-weight:bold;
+color:#000000;
+background-color:#ffff00;
+text-align:center;
+padding:4px 43px 4px 43px;
+text-decoration:none;
+
+}
+a:hover,a:active
+{
+background-color:#ff0000;
+}
+
+ul li:hover ul{
+  display: block;
+}
+
+ul ul{
+ display: none;
+ position: absolute;
+}
+ul ul li{
+ display:block;
+ background-color:#ffff00;
+}
+
+
+img
+{
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid #0000ff;
+  float: left;
+  text-align: center;
+}	
+
+
+td, th
+{
+  color: black;
+  border:1px solid black;
+  border:1px solid black;
+}
+th
+{
+background-color:white;
+color:black;
+}
+
+
+
+
